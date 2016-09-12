@@ -21,7 +21,7 @@
   <li>Death: December 5, 1926</li>
   <li>Influenced by: Gustave Courbet, Eugene Delacroix, Eugene Boudin</li>
   <li>Founder of French Impressionist painting</li>
-  <li>Term "Impressionism" was coined by Monet with his painting entitled,<i>Impression Sunrise</i></li>
+  <li>Term "Impressionism" was coined by Monet with his painting entitled, <i>Impression Sunrise</i></li>
   <li>Enlisted in the First Regiment of African Light Cavalry in Algeria for 2 years, but quit after contracting typhoid.</li>
   <li>     </li>
   <li>     </li>
