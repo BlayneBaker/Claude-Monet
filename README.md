@@ -21,15 +21,15 @@
   <li>Death: December 5, 1926.</li>
   <li>Influenced by: <a href="https://en.wikipedia.org/wiki/Gustave_Courbet">Gustave Courbet</a>, <a href="https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix">Eugene Delacroix</a>, <a href="https://en.wikipedia.org/wiki/Eug%C3%A8ne_Boudin">Eugene Boudin</a>.</li>
   <li>Founder of French Impressionist painting.</li>
-  <li>Term "Impressionism" was coined by Monet with his painting entitled, <i>Impression Sunrise</i>.</li>
+  <li>Term "Impressionism" was coined by Monet due to his painting entitled, <i>Impression Sunrise</i>.</li>
   <li>Enlisted in the First Regiment of African Light Cavalry in Algeria for 2 years, but quit after contracting typhoid.</li>
-  <li>Married Camille Doncieux who he featured in his famous painting <i>The Woman in the Green Dress</i>.</li>
+  <li>Married Camille Doncieux whom he featured in his famous painting <i>The Woman in the Green Dress</i>.</li>
   <li>Monet's famous painting entitled, <i>Water Lilies</i>, was painted on his property in Giverny, France.</li>
-  <li>Monet developed cataracts later in life around the 1920s, thus his paintings took on a reddish hue during that period, which is signutre of those visually impaired by cataracts.</li>
+  <li>Monet developed cataracts in the 1920s, thus, his paintings took on a reddish hue towards the end of his life.</li>
   <li>Monet died of lung cancer at age 86 and is buried in Giverny church cemetery.</li>
-  <li>Monet's famous property in Giverny, France which was home to his infamous water lilies to which he went on and painted his work entitled <i>Water Lilies</i> was donated to The French Academy of Fine Arts in 1966.</li>
+  <li>Monet's famous property in Giverny, France, which was home to his infamous water lilies, was donated to The French Academy of Fine Arts in 1966.</li>
   </ul>
-  <p>For Claude Monet's full biography, please refer to <a href="http://www.claudemonetgallery.org/biography.html">Claude Oscar Monet Biography</a></p>
+  <p>To read Claude Monet's full biography, please refer to <a href="http://www.claudemonetgallery.org/biography.html">Claude Oscar Monet Biography</a></p>
   </div>
   
   
