@@ -28,7 +28,12 @@
   <p>To read Claude Monet's full biography, please refer to <a href="http://www.claudemonetgallery.org/biography.html">Claude Oscar Monet Biography.</a></p>
   </div>
   
+  <div>
+  <h3>Claude Monet's Works</h3>
   
+  
+  
+  </div>
   
   
   </body>
