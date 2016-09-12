@@ -19,7 +19,7 @@
   <ul>
   <li>Born: November 14, 1840 in Paris, France.</li>
   <li>Death: December 5, 1926.</li>
-  <li>Influenced by: <a href="https://en.wikipedia.org/wiki/Gustave_Courbet>Gustave Courbet</a>,<a href="https://en.wikipedia.org/wiki/Claude_Monet">Eugene Delacroix</a>,<a href="https://en.wikipedia.org/wiki/Claude_Monet">Eugene Boudin</a>.</li>
+  <li>Influenced by:<a href="https://en.wikipedia.org/wiki/Gustave_Courbet">Gustave Courbet</a>,<a href="https://en.wikipedia.org/wiki/Claude_Monet">Eugene Delacroix</a>,<a href="https://en.wikipedia.org/wiki/Claude_Monet">Eugene Boudin</a>.</li>
   <li>Founder of French Impressionist painting.</li>
   <li>Term "Impressionism" was coined by Monet with his painting entitled, <i>Impression Sunrise</i>.</li>
   <li>Enlisted in the First Regiment of African Light Cavalry in Algeria for 2 years, but quit after contracting typhoid.</li>
