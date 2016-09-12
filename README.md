@@ -10,7 +10,7 @@
   <body>
   <h1>Claude Monet</h1>
   <h2>People discuss my art and pretend to understand, as if it were necessary to understand when it's simply necessary to love. ~ Claude Monet</h2>
-  <p> Art is a thing of beauty and Claude Monet captured that essence. From stunning landscapes to devine portraits, Monet encapsulated light, beauty, and awe in his paintings. With calculated strokes and a passionate hand, Monet brought to life the world in which surrounded him and inspired wonder in all who viewed his works. An honest, hard working man who lived for nature and his devote love for his wife Camille, Claude Monet changed art's cutlure and standards for the better, while leaving a piece of elegance and grace behind for all eternity through his numerous paintings.
+  <p> Art is a thing of beauty and Claude Monet captured that essence. From stunning landscapes to divine portraits, Monet encapsulated light, beauty, and awe in his paintings. With calculated strokes and a passionate hand, Monet brought to life the world that surrounded him. An honest, hard working man who lived for nature and a devote love for his wife Camille, Claude Monet changed art's cutlure and standards for the better, while leaving a piece of elegance and grace behind for all eternity through his numerous paintings.
   
   
   </p>
