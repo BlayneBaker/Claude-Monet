@@ -19,7 +19,6 @@
   <li>Influenced by: <a href="https://en.wikipedia.org/wiki/Gustave_Courbet">Gustave Courbet</a>, <a href="https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix">Eugene Delacroix</a>, <a href="https://en.wikipedia.org/wiki/Eug%C3%A8ne_Boudin">Eugene Boudin</a>.</li>
   <li>Founder of French Impressionist painting.</li>
   <li>Term "Impressionism" was coined by Monet through his painting entitled, <i>Impression Sunrise</i>.</li>
-  <li>Enlisted in the First Regiment of African Light Cavalry in Algeria for 2 years, but quit after contracting typhoid.</li>
   <li>Married Camille Doncieux whom he featured in his famous painting <i>The Woman in the Green Dress</i>.</li>
   <li>Monet's famous painting entitled, <i>Water Lilies</i>, was painted on his property in Giverny, France.</li>
   <li>Monet developed cataracts in the 1920s, thus, his paintings took on a reddish hue towards the end of his life.</li>
