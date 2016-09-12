@@ -29,7 +29,7 @@
   <li>Monet died of lung cancer at age 86 and is buried in Giverny church cemetery</li>
   <li>Monet's famous property in Giverny,France that was home to his infamous <i>Water Lilies</i> painting was donated to The French Academy of Fine Arts in 1966</li>
   </ul>
-  <p>To read Claude Monet's full biography, please refer to </p>
+  <p>For Claude Monet's full biography, please refer to <a href="http://www.claudemonetgallery.org/biography.html">Claude Oscar Monet Biography</a></p>
   </div>
   
   
