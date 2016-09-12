@@ -23,7 +23,7 @@
   <li>Founder of French Impressionist painting</li>
   <li>Term "Impressionism" was coined by Monet with his painting entitled, <i>Impression Sunrise</i></li>
   <li>Enlisted in the First Regiment of African Light Cavalry in Algeria for 2 years, but quit after contracting typhoid.</li>
-  <li>     </li>
+  <li> Married Camille Doncieux who he featured in his famous painting <q>Girl in the Green Dress</q></li>
   <li>     </li>
   <li>     </li>
   <li>     </li>
