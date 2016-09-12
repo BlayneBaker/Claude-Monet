@@ -31,7 +31,7 @@
   <div>
   <h3>Claude Monet's Works</h3>
   <figure>
-  <img src="claudemonet/impressionsunrise.jpg" alt="Impression Sunrise" />
+  <img src="Desktop/claudemonet/impressionsunrise.jpg" alt="Impression Sunrise" />
   <br />
   <figcaption>Impression Sunrise</figcaption>
   
