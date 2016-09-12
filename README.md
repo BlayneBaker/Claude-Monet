@@ -9,7 +9,7 @@
   </head>
   <body>
   <h1>Claude Monet</h1>
-  <h2>People discuss my art and pretend to understand, as if it were necessary to understand, when it's simply necessary to love. ~ Claude Monet</h2>
+  <h2>People discuss my art and pretend to understand, as if it were necessary to understand when it's simply necessary to love. ~ Claude Monet</h2>
   <p> 
   
   
