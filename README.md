@@ -24,7 +24,7 @@
   <li>Term "Impressionism" was coined by Monet with his painting entitled, <i>Impression Sunrise</i></li>
   <li>Enlisted in the First Regiment of African Light Cavalry in Algeria for 2 years, but quit after contracting typhoid.</li>
   <li>Married Camille Doncieux who he featured in his famous painting <i>Girl in the Green Dress</i></li>
-  <li>Monet's famous painting entitled, <i>Water Lillies</i>, was painted on his property in Giverny, France </li>
+  <li>Monet's famous painting entitled, <i>Water Lilies</i>, was painted on his property in Giverny, France </li>
   <li>     </li>
   <li>     </li>
   </ul>
