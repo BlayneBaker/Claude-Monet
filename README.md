@@ -10,7 +10,7 @@
   <body>
   <h1>Claude Monet</h1>
   <h2>People discuss my art and pretend to understand, as if it were necessary to understand when it's simply necessary to love. ~ Claude Monet</h2>
-  <p> 
+  <p> Art is a thing of beauty and Claude Monet captured that essence. From stunning landscapes to devine portraits, Monet encapulated light, beauty, and awe in his paintings. With calculated strokes and a passionate hand, Monet brought to life the world in which surrounded him and inspired wonder in all who viewed his works. An honest, hard working man who lived for nature and his devote love for his wife Camille, Claude Monet changed art's cutlure and standards for the better, while leaving a piece of elegance and grace behind for all eternity through his numerous paintings.
   
   
   </p>
@@ -21,7 +21,7 @@
   <li>Death: December 5, 1926.</li>
   <li>Influenced by: <a href="https://en.wikipedia.org/wiki/Gustave_Courbet">Gustave Courbet</a>, <a href="https://en.wikipedia.org/wiki/Eug%C3%A8ne_Delacroix">Eugene Delacroix</a>, <a href="https://en.wikipedia.org/wiki/Eug%C3%A8ne_Boudin">Eugene Boudin</a>.</li>
   <li>Founder of French Impressionist painting.</li>
-  <li>Term "Impressionism" was coined by Monet due to his painting entitled, <i>Impression Sunrise</i>.</li>
+  <li>Term "Impressionism" was coined by Monet through his painting entitled, <i>Impression Sunrise</i>.</li>
   <li>Enlisted in the First Regiment of African Light Cavalry in Algeria for 2 years, but quit after contracting typhoid.</li>
   <li>Married Camille Doncieux whom he featured in his famous painting <i>The Woman in the Green Dress</i>.</li>
   <li>Monet's famous painting entitled, <i>Water Lilies</i>, was painted on his property in Giverny, France.</li>
