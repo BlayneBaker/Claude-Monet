@@ -4,6 +4,7 @@
   <head>
     <title>Claude Monet</title>
     <link rel="stylesheet" href="style.css" />
+    <link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
   </head>
   <body>
   <h1>Claude Monet</h1>
