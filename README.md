@@ -2,10 +2,8 @@
 <!DOCTYPE html>
 <html>
   <head>
- 
-<link rel="stylesheet" href="base.css">
-
     <title>Claude Monet</title>
+    <link rel="stylesheet" href="style.css" />
   </head>
   <body>
   <h1>Claude Monet</h1>
