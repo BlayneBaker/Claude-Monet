@@ -1,0 +1,299 @@
+/*-- Color Scheme --/
+*pink: #FFDBE3
+*green: #FFE8C6
+*brown: #A3875F
+
+/*-- General Styles --*/
+h1 {
+font-family: 'Kaushan Script', cursive;
+font-weight: 300;
+  font-size: 100px;
+  margin:0;
+  padding: 0;
+  text-align: center;
+  background-image: url("pix/flowersmonet.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  padding-bottom: 60px;
+  padding-top: 20px;
+  background-size: 100% 100%;
+*-- photo from:http://www.caryncaldwell.com/ --*
+
+
+}
+
+h2{
+  font-family:'Courgette', cursive;
+  font-weight: 300;
+    font-size: 28px;
+    margin:0;
+    padding: 0;
+    text-align: center;
+
+}
+
+h3{
+  font-family:'Kaushan Script', cursive;
+  font-weight: 300;
+    font-size: 40px;
+    margin:0;
+    padding: 20px;
+    text-align: center;
+
+}
+
+p{
+  font-family:'Droid Serif', serif;
+  font-weight: 300;
+    font-size: 20px;
+    margin:0;
+    padding: 0;
+    text-align: justify;
+
+}
+
+a {
+color: #000;
+text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+/*-- Classes --*/
+.intro {
+    background-color:#A5AD7A;
+
+}
+/*-- Image under intro --*/
+IMG.painting{
+  display:block;
+  margin-left: auto;
+  margin-right:auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  width: 900px;
+  height: 500px;
+}
+
+.quote{
+    background-color:#FFDBE3;
+    padding-top: 20px;
+}
+
+.general{
+  font-family:'Droid Serif', serif;
+  font-weight: 300;
+    font-size: 20px;
+    margin:0;
+    padding-bottom: 20px;
+    padding-left: 40px;
+    background-color:#FFE9E8;
+    background-image: url("pix/treebackground.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-bottom: 60px;
+    background-size: 100% 100%;
+}
+
+.trans {
+  background-color: rgba(255, 255, 255, 0.5);
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.trans2{
+  background-color: rgba(255, 255, 255, 0.5);
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+.gallery{
+    background-color:#523957;
+    padding-top: 20px;
+    background-image: url("pix/pond.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    padding-bottom: 60px;
+    padding-top: 20px;
+    background-size: 100% 100%;
+    /*-- Photo from camchowda.com--*/
+
+}
+
+.trans3{
+  background-color: rgba(255, 255, 255, 0.6);
+  display: block;
+  width: 60%;
+  margin: 0 auto;
+}
+
+/*-- Gallery Images --*/
+
+/*-- Impression Sunrise--*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.sunrise{
+  width: 700px;
+  height: 600px;
+  padding-top: 40px;
+
+}
+
+/*-- Woman in the Green Dress-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.dress{
+  width: 400px;
+  height: 600px;
+  padding-top: 20px;
+
+}
+
+/*--The Bridge At Argenteuil-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.bridge{
+  width: 700px;
+  height: 500px;
+  padding-top: 20px;
+
+}
+
+/*--Tree In Flower Near Vetheui-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.tree{
+  width: 700px;
+  height: 500px;
+  padding-top: 20px;
+
+}
+
+/*--Lally Point Low Tide-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.tide{
+  width: 700px;
+  height: 500px;
+  padding-top: 20px;
+
+}
+
+/*--Water Lilies-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.lilies{
+  width: 600px;
+  height: 500px;
+  padding-top: 20px;
+
+}
+
+/*--Irises In Monet's Garden-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.irises{
+  width: 600px;
+  height: 500px;
+  padding-top: 20px;
+
+}
+
+/*--La Promenade-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.promenade{
+  width: 400px;
+  height: 600px;
+  padding-top: 20px;
+
+}
+
+/*--Sailboat At Le Petit Gennevilliers-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.sailboat{
+  width: 600px;
+  height: 500px;
+  padding-top: 20px;
+
+}
+
+/*--Self Portrait With A Beret-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.portrait{
+  width: 500px;
+  height: 600px;
+  padding-top: 20px;
+
+}
+
+/*--San Giorgio Maggiore At Dusk-*/
+img.align-center{
+    display: block;
+    margin: 0px auto;
+}
+
+img.dusk{
+  width: 600px;
+  height: 500px;
+  padding-top: 20px;
+}
+
+/*--Image Captions-*/
+figure{
+  font-family:'Droid Serif', serif;
+  font-weight: 300;
+    font-size: 20px;
+    margin:0;
+    padding: 0;
+    text-align: center;
+}
+
+
+/*--Footer-*/
+footer{
+  background-color: #A3875F;
+  padding-top:10px;
+}
+footer p {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+
+}
+
+
+<img src="pix/claudemonetheadshot.jpg" alt="Claude Monet Head Shot" />
