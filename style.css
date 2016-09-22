@@ -2,6 +2,8 @@
 *pink: #FFDBE3
 *green: #FFE8C6
 *brown: #A3875F
+*light purple: b19cd9
+*light pink link: #ff69b4
 
 /*-- General Styles --*/
 h1 {
@@ -52,12 +54,21 @@ p{
 
 }
 
+/*-- Link styles --*/
 a {
 color: #000;
 text-decoration: none;
 }
+a:visited {
+  color: #ff69b4;
+}
+
 a:hover {
-  text-decoration: underline;
+  color: #b19cd9;
+}
+
+a:active {
+  color: #000;
 }
 /*-- Classes --*/
 .intro {
@@ -108,6 +119,11 @@ IMG.painting{
 
 }
 
+.list li{
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
 .gallery{
     background-color:#523957;
     padding-top: 20px;
@@ -126,6 +142,7 @@ IMG.painting{
   display: block;
   width: 60%;
   margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 /*-- Gallery Images --*/
@@ -264,6 +281,7 @@ img.portrait{
 img.align-center{
     display: block;
     margin: 0px auto;
+    padding-top: 10px;
 }
 
 img.dusk{
@@ -294,6 +312,3 @@ footer p {
   padding-bottom: 20px;
 
 }
-
-
-<img src="pix/claudemonetheadshot.jpg" alt="Claude Monet Head Shot" />
